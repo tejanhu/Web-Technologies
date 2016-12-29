@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- movies.html
+     A trivial document
+     -->
+<html xmlns = "http://www.w3.org/1999/xhtml">
+  <head> <title> Our first document: favourite five movies </title>
+  </head>
+  <body>
+
+<p align = "center"> 
+      My favourite five movies
+       
+
+     </p>
+     <table border="1">
+      <tr> <td> Rank</td> <td> Name of the movie </td> <td colspan ="1" >  Poster</td> <td> Two leading actor/actresses</td></tr>
+       <tr> <td> 1 </td> <td>Roots (Whole Series)</td>  <td> <img src ="http://www.pencilstubs.com/images/Magazine/Supporting/Blair5RootsMoviePoster.jpg" width="200" height="200"/></td> <td> <img src ="http://img.spokeo.com/public/900-600/levar_burton_2007_04_14.jpg" width="200" height="200"</td> </tr>
+       <tr> <td> 2 </td> <td>Batman: The Dark Knight</td>  <td><img src ="http://2.bp.blogspot.com/-tdCms27vz3Y/UK-P3SG21vI/AAAAAAAAH14/9iCETnKx7Is/s1920/batman-dark-knight-the-joker-1080.jpg" width="200" height="200"/></td> <td> <img src ="http://img2-3.timeinc.net/people/i/2008/news/080331/ledger_bale.jpg" width="200" height="200"</td> </tr>
+       <tr> <td> 3 </td> <td> Batman: The Dark Knight Rises</td> <td><img src ="http://whatleydude.com/wp-content/uploads/2012/06/batman-dark-knight-rises.jpg" width="200" height="200"/></td> <td><img src ="http://images6.fanpop.com/image/photos/33500000/Tom-Hardy-Christian-Bale-Photo-Shoot-tom-hardy-33535830-719-960.jpg" width="200" height="200"</td> </tr>
+       <tr> <td> 4 </td> <td>White Chicks</td> <td><img src ="http://www.jackasscritics.com/images/movies/white_chicks_01.jpg" width="200" height="200"/></td> <td><img src="http://www1.pictures.zimbio.com/gi/Marlon%2BWayans%2BShawn%2BWayans%2BPremiere%2BE%2BNetwork%2BjOay8_YYdPil.jpg" width="200" height="200"</td> </tr>
+       <tr> <td> 5  </td> <td> Holes</td> <td><img src ="http://blackgoldhockey.com/wp-content/uploads/2013/07/Holes.jpg" width="200" height="200"/></td> <td><img src ="http://www.movpins.com/big/MV5BMTAyNTI1MzQ4NzJeQTJeQWpwZ15BbWU3MDQyNTcxMjc/still-of-sigourney-weaver,-jon-voight-and-shia-labeouf-in-holes.jpg" width="200" height="200"</td> </tr>
+       <tr> <td rowspan="1"> </td> <td> </td><td></td> <td></td> </tr> 
+            
+       
+    </table>
+      
+
+</body>
+</html>
